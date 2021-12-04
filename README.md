@@ -3,7 +3,7 @@ Le présent TP est le  d'« Analyse  Numériques» , L'objectif de ce polycopié
 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabrine-khalifa/tp-num_analysis/main?labpath=Untitled1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabrine-khalifa/tp-num_analysis/main)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sabrine-khalifa/tp-num_analysis/main?labpath=TP2.ipynb)
+
 
