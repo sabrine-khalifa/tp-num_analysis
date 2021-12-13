@@ -5,7 +5,6 @@ Le présent TP est le  d'« Analyse  Numériques» , L'objectif de ce polycopié
 
 
 
-https://github.com/sabrine-khalifa/tp-num_analysis/blob/main
 
 
 
